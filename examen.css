@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.todoo{
+    margin-left: 50px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inicio{
+    margin-top: 60px;
+    margin-left: 420px;
+    font-size: 20px;
+}
+
+.añañai{
+    font-size: 20px;
+    margin-left: -34px;
+}
+
+.numero-encerrado {
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px; /* Ajusta este valor para hacerlo más redondeado */
+    background-color: rgb(248, 240, 240);
+    display: inline-block;
+    margin-left: 160px;
+    margin-top: 40px;
+}
+
+.titulo{
+    margin-left: 6%;
+    margin-top: 10px;
+    font-size: 20xp;
+}
+
+.contenido{
+    margin-top: 26px;
+}
+
+.p2{
+    margin-left: -13px;
+}
+
+.p3{
+    margin-left: 60px;
+}
+
+.linkeo{
+    color: chartreuse;
+}
+
+.uno{
+    margin-left: 31px;
+}
+
+.dos{
+    margin-left: 8%;
+}
+
+.numero-encerrado2{
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px; /* Ajusta este valor para hacerlo más redondeado */
+    background-color: rgb(248, 240, 240);
+    display: inline-block;
+    margin-left: 41%;
+    margin-top: -141px;
+    position: absolute;
+}
+
+.titulito{
+    margin-left: 435px;
+    font-size: 20px;
+    margin-top: -103px;
+    position: absolute;
+}
+
+.parranda{
+    margin-left: 420px;
+    margin-top: -4%;
+}
+
+.titu3{
+    font-size: 20px;
+    margin-left: 920px;
+    margin-top: -103px;
+    position: absolute;
+}
+
+.numero-encerrado3{
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px; 
+    background-color: rgb(247, 253, 249);
+    display: inline-block;
+    margin-left: 76%;
+    margin-top: -140px;
+    position: absolute;
+}
+
+.qpereza{
+    margin-left: 20px;
+}
+
+.diosmio{
+    margin-left: -14px;
+}
+
+.parrafo3{
+    margin-left: 894px;
+    margin-top: -4%;
+}
+
+.lootro{
+    background-color: rgb(191, 223, 216);
+    margin-top: 50px;
+}
+
+.numero{
+    margin-top: 50px;
+    margin-left: -10px;
+}
+
+.adentro{
+    margin-left: 32%;
+}
+
+.numerito{
+    margin-left: 400px;
+    position: absolute; 
+}
+
+.numerito2{
+    margin-left: 498px;
+    margin-top: 0px;
+}
+
+.numerito3{
+    margin-left: 600px;
+    margin-top: -37px;
+}
+
+.numerito4{
+    margin-left: 700px;
+    margin-top: -36px;
+}
+
+.numerito5{
+    margin-left: 802px;
+    margin-top: -38px;
+}
+
+.cafe{
+    background-color: rgb(129, 216, 158);
+}
+
+.ahhhhhhh{
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+.yacasi{
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+.tercera{
+    margin-left: 700px;
+}
+
+.cuarta{
+    margin-left: 700px;
+}
+
+.imagen{
+    height: 200px;
+    width: 250px;
+    margin-top: -100px;
+    margin-left: 350px;
+}
+
+.line{
+    height: 6px;
+    margin-left: 367px;
+    margin-top: 37px;
+    width: 89px;
+    position: absolute;
+    background-color: green;
+}
+
+footer{
+    margin-left: 40%;
+    font-size: 20px;
+}
